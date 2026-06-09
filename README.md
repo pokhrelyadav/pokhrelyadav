@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yadav Pokhrel.
-- 👀 I’m interested in Web Development, AI and Machine Learning.
-- 🌱 I’m currently learning Django.
-- 💻 Work in Python, Javascript and Django Framework
+- 👀 I’m interested in Web Development, AI and Machine Learning, Devops and Cloud Computing, Linux.
+- 🌱 I’m currently learning Web development, Linux & DSA.
+- 💻 Work in Python, Javascript and Django Framework, MERN, Linux
 - 💞️ I’m looking to collaborate on related projects.
 - 📫 How to reach me: pokhrelyadav412@gmail.com
 - 😄 Pronouns: He/Him
